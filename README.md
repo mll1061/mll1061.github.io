@@ -2,3 +2,4 @@
 cool stuff
 ...
 Change in GitHub
+Change in Atom
